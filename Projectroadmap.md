@@ -1,7 +1,7 @@
 # BuzzFeed Quiz Road Map
-- [ ] Join KSU IS repository
-- [ ] Create readme and projectmap files
-- [ ] View and run similiar/existing repositories on Git 
+- [ ] Join KSU IS repository - Done
+- [ ] Create readme and projectmap files - Done
+- [ ] View and run similiar/existing repositories on Git - Done 
 - [ ] Related Python code (below)
 - [On-The-Spot](https://github.com/ksu-is/On-The-Spot)
 - [Quiz-Game](https://github.com/ksu-is/Quiz-Game)
