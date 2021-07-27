@@ -6,3 +6,11 @@ question3 = input("What are your go to shoes: \n A. Louboutins \n B. Nike \n C. 
 question4 = input("WWhat is your favorite color scheme: \n A. Bright Summer Colors \n B. Black?/White \n C. Fall Colors \n D. Natural Colors ")
 question5 = input("What is your typical makeup routine: \n A. All Glam \n B. Natural Look \n C. Bare Face \n D. Only Special Occasions")
 question6 = input("What’s favorite type of jeans: \n A. Skinny Jeans \n B. Bootcut Jeans \n C. Boyfriend Cut Jeans \n D. Jean Shorts")
+
+#Evaluate answers
+if question1 == "A":
+    if question2 == "A"
+        if question3 =="A"
+            if question4 == "A"
+                if question5 == "A"
+                    if question6 == "A"
