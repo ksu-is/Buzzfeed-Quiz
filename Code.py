@@ -9,8 +9,9 @@ question6 = input("What’s favorite type of jeans: \n A. Skinny Jeans \n B. Boo
 
 #Evaluate answers
 if question1 == "A":
-    if question2 == "A"
-        if question3 =="A"
-            if question4 == "A"
-                if question5 == "A"
-                    if question6 == "A"
+    if question2 == "A": 
+        if question3 =="A": 
+            if question4 == "A": 
+                if question5 == "A": 
+                    if question6 == "A":
+                        print("You're A Fashionista & Would Teach English!")
