@@ -13,9 +13,9 @@
 - 1.Corrected forwad slash for question 2 answer choice b
 - 2.Added question marks and gramatical errors
 - 3.Made formatting changes
-- 4.Decided to pull a reppoository so I could have a template that for sure worked
+- 4.Decided to pull a reppository so I could have a template that for sure worked
 - 5.trial and error for coming up with a way to real answer for quiz
-- 6. Redoing quiz in a way that it works with answers
+- 6.Redoing quiz in a way that it works with answers
 - [ ] Include comment explaining each change
 
 # Sprint 3:
